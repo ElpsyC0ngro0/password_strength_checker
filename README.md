@@ -35,7 +35,7 @@ python3 checker.py
 
 ```
 
-##🧪 Sample Output
+## 🧪 Sample Output
 
 🔐 Password Strength Checker
 Enter your password: Hello123
@@ -45,7 +45,7 @@ Strength: Moderate ⚠️
 💡 Tips to improve your password:
 🔹 Include a special character (@ $ ! % * ? & . _ -)
 
-##💡 Password Strength Criteria
+## 💡 Password Strength Criteria
 
 Strength | Criteria
 Weak ❌ | Missing 3+ of the core requirements
