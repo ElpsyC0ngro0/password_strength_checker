@@ -47,7 +47,8 @@ Strength: Moderate ⚠️
 
 ## 💡 Password Strength Criteria
 
-Strength | Criteria
-Weak ❌ | Missing 3+ of the core requirements
-Moderate ⚠️ | Meets some requirements but not all (usually 1-2 missing)
+Strength | Criteria  
+Weak ❌ | Missing 3+ of the core requirements  
+Moderate ⚠️ | Meets some requirements but not all (usually 1-2 missing)  
 Strong 💪 | Has uppercase, lowercase, digits, special characters, and length ≥ 8
+  
