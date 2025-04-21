@@ -25,7 +25,7 @@ No external libraries required – works with built-in Python modules.
 
 ```bash
 # Clone the repository
-git clone https://github.com/ElpsyC0ngro0/password-strength-checker.git
+git clone https://github.com/ElpsyC0ngro0/password_strength_checker
 
 # Navigate to the folder
 cd password-strength-checker
