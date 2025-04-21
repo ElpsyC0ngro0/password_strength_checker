@@ -31,13 +31,13 @@ python3 checker.py
 
 ## 🧪 Sample Output
 
-🔐 Password Strength Checker
-Enter your password: Hello123
+🔐 Password Strength Checker  
+Enter your password: Hello123  
 
-Strength: Moderate ⚠️
+Strength: Moderate ⚠️  
 
-💡 Tips to improve your password:
-🔹 Include a special character (@ $ ! % * ? & . _ -)
+💡 Tips to improve your password:  
+🔹 Include a special character (@ $ ! % * ? & . _ -)  
 
 ## 💡 Password Strength Criteria
 
