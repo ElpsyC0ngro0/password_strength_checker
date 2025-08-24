@@ -1,4 +1,4 @@
-# 🔐 Password Strength Checker & Multi Strong Password Generator
+# 🔐 Password Strength Checker & Random Password Genereator
 
 A Python-based CLI tool that:
 - ✅ Checks the strength of any given password.
